@@ -14,3 +14,6 @@ Each entry is structured into three components:
 3. Solution – Recommended corrective actions
 The dataset is provided in both PDF and text formats for flexible use in machine learning and information retrieval research.
 
+## Authors
+- Jingu Kang, Kangmin Ahn
+  ICT Convergence Manufacturing Laboratory, Konkuk University
