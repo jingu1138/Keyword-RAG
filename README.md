@@ -15,5 +15,5 @@ Each entry is structured into three components:
 The dataset is provided in both PDF and text formats for flexible use in machine learning and information retrieval research.
 
 ## Authors
-- Jingu Kang and Kangmin Ahn
+- Jingu Kang, Kangmin Ahn and Hyungjung Kim
 - ICT Convergence Manufacturing Laboratory, Konkuk University
