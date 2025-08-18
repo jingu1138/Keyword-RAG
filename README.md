@@ -16,4 +16,4 @@ The dataset is provided in both PDF and text formats for flexible use in machine
 
 ## Authors
 - Jingu Kang, Kangmin Ahn
-  ICT Convergence Manufacturing Laboratory, Konkuk University
+- ICT Convergence Manufacturing Laboratory, Konkuk University
