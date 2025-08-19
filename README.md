@@ -1,4 +1,4 @@
-# Keyword-RAG
+# 3D printing troubleshooting guide
 
 ## Overview
 This dataset is a curated collection of troubleshooting content for 3D printing, focusing on output quality issues.
