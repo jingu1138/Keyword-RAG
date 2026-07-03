@@ -1,0 +1,28 @@
+# Core
+torch>=2.4.0
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Embedding & Transformers
+transformers>=4.46.0
+sentence-transformers>=5.0.0
+huggingface-hub>=0.26.0
+
+# Keyword Extraction
+adaptkeybert==0.0.2
+
+# LangChain
+langchain==0.3.7
+langchain-core==0.3.63
+langchain-community==0.3.7
+langchain-chroma==0.1.4
+langchain-huggingface==0.1.2
+langchain-ollama==0.2.0
+langchain-text-splitters==0.3.8
+langchainhub==0.1.21
+
+# Vector Database
+chromadb==0.5.18
+
+# Utilities
+tqdm>=4.67.0
