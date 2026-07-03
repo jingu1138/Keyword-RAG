@@ -5,7 +5,7 @@
 Keyword-RAG is a domain-specific Retrieval-Augmented Generation (RAG) framework designed to improve question-answering performance on manufacturing technical documents. The framework enhances retrieval accuracy by augmenting document chunks with representative domain-specific keywords before indexing.
 
 <p align="center">
-  <img src="images/graphical_abstract.png" alt="Keyword-RAG Graphical Abstract" width="100%">
+  <img src="graphical_abstract.png" alt="Keyword-RAG Graphical Abstract" width="100%">
 </p>
 
 ## 💡 Motivation
