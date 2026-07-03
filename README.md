@@ -24,6 +24,3 @@ Keyword-RAG improves retrieval by automatically extracting representative keywor
 
 DOI: [https://doi.org/10.1093/jcde/qwag052](https://doi.org/10.1093/jcde/qwag052)
 
----
-
-⭐ If you find this work useful, please consider citing our paper.
